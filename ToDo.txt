@@ -1,0 +1,8 @@
+following additions are required:
+#ToDo:
+add contacts ins/linkedin/mail.
+add careerD and trainingD as a link in the about us page.
+turn small cards to careerD and trainingD buttons.
+Delete project tab for now.-------------------------------------------->Done
+make teams cards smaller
+add tariningD and careerD tabs that link to eachother.
